@@ -1,0 +1,21 @@
+register 0 zwe zwe 111
+register 1 yan yan 111
+register 2 naung naung 111
+register 3 zyn zyn 111
+register 4 aung aung 111
+register 5 kyaw kyaw 111
+register 6 phyo phyo 111
+register 7 htut htut 111
+login htut htut 111
+v_student 0 Ronaldo 2
+Ronaldo zwe 
+Ronaldo kyaw 
+v_student 1 Messi 4
+Messi yan 
+Messi aung 
+Messi phyo 
+Messi htut 
+v_student 2 Rooney 1
+Rooney naung 
+v_student 3 Naymar 1
+Naymar zyn 
