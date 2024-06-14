@@ -1,5 +1,5 @@
-print("hello \n", "world")
-print("minga", "\n", "larpar")
+# print("hello \n", "world")
+# print("minga", "\n", "larpar")
 
 # my_dict: dict = {
 #     "1": {"name": "mg", "age": 11, "school": "great-5"},
@@ -10,3 +10,12 @@ print("minga", "\n", "larpar")
 # }
 # for i in range(len(my_dict)):
 #     print(i)
+
+# def build_pyramid(rows):
+#     for i in range(rows):
+#         print(' ' * (rows - i - 1) + '*' * (2 * i + 1))
+#
+# rows = int(input("Enter the number of rows for the pyramid: "))
+# build_pyramid(rows)
+
+te
